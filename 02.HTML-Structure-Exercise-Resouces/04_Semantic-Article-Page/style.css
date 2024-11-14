@@ -1,0 +1,31 @@
+body{
+    background-color: #e4e978;
+}
+.base{
+    background-color: #f2f4c0;
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+    padding: 5px 15px;
+    width: 700px
+}
+
+section{
+    font-style: italic;
+}
+#second1{
+    border: 1px solid #b2ad7d;
+    background: linear-gradient(150deg, #f2f4c0, #e4e978, #4c7658);
+    margin: 15px 10px;
+    padding: 5px 15px;
+    width: 700px
+}
+#second2{
+
+    border: 1px solid #b2ad7d;
+    background: linear-gradient(150deg, #f2f4c0, #e4e978, #4c7658);
+    margin: 15px 10px;
+    padding: 5px 15px;
+    width: 700px
+
+
+}
